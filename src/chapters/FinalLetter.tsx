@@ -65,10 +65,15 @@ export default function FinalLetter() {
       </p>
 
       <p className="text-gray-200 text-sm italic text-center mt-8 mb-8">
-        "Dil na mane tere bina kaise kate ye din Adhura sa lagta hai yeh din
-        Tere jaisa koi na pu6ta hain "Hum kaisa hain" Kaise kahun tujhko Tere
-        bin keya hoga mujhko Tuuu hai to sab hain Tere bin hum hi nehi hain I
-        love you my dear pupu Sona 😘❤️😘❤️"
+        "Dil na mane tere bina kaise kate ye din <br /> Adhura sa lagta hai yeh
+        din <br />
+        <br />
+        Tere jaisa koi na pu6ta hain <br /> "Hum kaisa hain" <br />
+        <br />
+        Kaise kahun tujhko <br /> Tere bin keya hoga mujhko <br />
+        <br />
+        Tuuu hai to sab hain <br /> Tere bin hum hi nehi hain <br />
+        <br />I love you my dear pupu Sona 😘❤️😘❤️"
       </p>
 
       <p className="text-gray-300 text-sm text-center">
